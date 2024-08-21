@@ -1,8 +1,6 @@
 @echo off
 setlocal
 
-:: Figlet ile başlık oluşturuluyor
-figlet KangTHE616
 echo ------------------------------
 echo Sistem Temizliği Menüsü
 echo ------------------------------
